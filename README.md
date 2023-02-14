@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I'm Kwablah.
-
-- I'm currently studying computer engineering in uni.
-
 <!--
 **kwablah8/kwablah8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
